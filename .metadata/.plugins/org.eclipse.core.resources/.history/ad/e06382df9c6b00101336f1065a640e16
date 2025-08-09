@@ -1,0 +1,5 @@
+package com.cdac.io;
+
+public class CategoryRequest {
+
+}
